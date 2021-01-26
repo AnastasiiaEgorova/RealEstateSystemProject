@@ -1,3 +1,4 @@
+D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\WebGrease.dll
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\RealEstateSystem.dll.config
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\RealEstateSystem.dll
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\RealEstateSystem.pdb
@@ -76,7 +77,6 @@ D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\S
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\System.Web.WebPages.Deployment.dll
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\System.Web.WebPages.dll
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\System.Web.WebPages.Razor.dll
-D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\WebGrease.dll
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\System.Web.Helpers.xml
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\System.Web.Mvc.xml
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\System.Web.Optimization.xml
@@ -101,11 +101,11 @@ D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\M
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\Microsoft.Owin.Security.OAuth.xml
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.csprojAssemblyReference.cache
+D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.Migrations.initialDB.resources
+D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.Migrations.contactClassAdded.resources
+D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.csproj.GenerateResource.cache
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.csproj.CoreCompileInputs.cache
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.csproj.CopyComplete
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.dll
 D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.pdb
-D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.Migrations.initialDB.resources
-D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.csproj.GenerateResource.cache
-D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.Migrations.contactClassAdded.resources
+D:\NBCC\GEX\Term5\ASP.NET\Project\RealEstateSystemProject\RealEstateSystem\obj\Debug\RealEstateSystem.csprojAssemblyReference.cache
