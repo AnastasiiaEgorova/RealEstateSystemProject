@@ -47,6 +47,7 @@ namespace RealEstateSystem.Controllers
         public ActionResult Create()
         {
             LoadRolesIntoViewBag();
+            LoadProvincesIntoViewBag();
             return View();
         }
 
@@ -65,6 +66,7 @@ namespace RealEstateSystem.Controllers
             }
 
             LoadRolesIntoViewBag();
+            LoadProvincesIntoViewBag();
             return View(contact);
         }
 
@@ -137,6 +139,11 @@ namespace RealEstateSystem.Controllers
         private void LoadRolesIntoViewBag()
         {
             ViewBag.Roles = RoleUtility.CreateListOfRoles();
+        }
+
+        private void LoadProvincesIntoViewBag()
+        {
+            ViewBag.Provinces = ProvinceUtility.CreateListOfProvinces();
         }
     }
 }
